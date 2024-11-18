@@ -1,0 +1,12 @@
+{"flutter":{
+    "platforms":{
+        "android":{
+            "default":{
+                "projectId":"event-pulse-5a3e0","appId":"1:412431485828:android:48ebdb982c75ff6b8eabd1","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"event-pulse-5a3e0","configurations":{"android":"1:412431485828:android:48ebdb982c75ff6b8eabd1","ios":"1:412431485828:ios:e584484aabd870e88eabd1"
+                }
+                }
+                }
+                }
+                }
+            }
+            
